@@ -95,6 +95,23 @@ You can view the live deployed project here:
 
 Live Demo:
 https://task-manager-interns-elite.vercel.app
+
+Project Screenshots
+
+Add screenshots of your working application here.
+
+Example:
+
+Main Interface — Empty State
+
+Active Tasks View
+
+Completed Tasks
+
+Filter Functionality
+
+Mobile Responsive View
+
 Challenges Faced
 1. Unique Task Identification
 
